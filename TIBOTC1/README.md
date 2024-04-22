@@ -7,6 +7,6 @@ Comandos
 6 npm run predev
 7 npm run dev
 
-Sites que utilizei como consulta.
+Sites que usei como consulta.
 - https://www.npmjs.com/package/dotenv
 - https://www.npmjs.com/package/node-telegram-bot-api?activeTab=readme
